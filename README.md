@@ -17,13 +17,13 @@
 
 <h2>About me...</h2>
 
-- :telescope: I’m currently working on building AI-based web apps as a HeadStarter Fellow :rocket:
+- :telescope: I've just finished HeadStarter cohort on building AI-based web apps :rocket:
 - 🌱 I’m still enhancing JavaScript, Python, and Node.js skills to leverage my backend skills
 - 👯 I’m aiming to :zap: speed up my app development :zap:
 - 📈: I'm passionate about applying Statistics in Data Analysis
-- 🤔 I’m looking for help with my recent research about generalize Exclusive lasso-based KNN for analyzing high-dimensional data
+- 🤔 I’m working on a statistic research that generalizes Exclusive lasso-based KNN for analyzing high-dimensional data
 - 💬 Ask me about Python, and College-level statistics.
-- :family_man_man_boy_boy: I'm looking for partner to join <a href="https://convexhackathon2.devpost.com/?ref_feature=challenge&ref_medium=discover">*Zero to One Hackathon by Convex Vol 2* </a> Hackathon so if you're down, hit me up!
+<!-- - :family_man_man_boy_boy: I'm looking for partner to join <a href="https://convexhackathon2.devpost.com/?ref_feature=challenge&ref_medium=discover">*Zero to One Hackathon by Convex Vol 2* </a> Hackathon so if you're down, hit me up! -->
 
 <p align="center">
   <a href="https://skillicons.dev">
