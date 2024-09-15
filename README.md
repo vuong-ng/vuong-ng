@@ -17,6 +17,7 @@
 
 <h2>About me...</h2>
 
+- :shamrock: I'm a junior majoring Computer Science at Denison University 
 - :telescope: I've just finished HeadStarter cohort on building AI-based web apps :rocket:
 - 🌱 I’m still enhancing JavaScript, Python, and Node.js skills to leverage my backend skills
 - 👯 I’m aiming to :zap: speed up my app development :zap:
