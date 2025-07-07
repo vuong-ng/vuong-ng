@@ -6,8 +6,16 @@
 <h2 align="center" >My Tech Stack</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js,html,css,cpp" />
+    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=cpp" />
+    <img src="https://skillicons.dev/icons?i=c" />
+    <img src="https://skillicons.dev/icons?i=cs" />
         <img src="https://skillicons.dev/icons?i=py" />
+        <img src="https://skillicons.dev/icons?i=js" />
+    <img src="https://skillicons.dev/icons?i=cpp" />
+    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=css" />
+    
   </a>
 </p>
 <p align="center">
